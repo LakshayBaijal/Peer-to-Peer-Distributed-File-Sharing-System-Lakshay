@@ -54,7 +54,6 @@ upload_file
 - Download File: 
 download_file 
 <file_name> 
-{Destination in Client Downloads}
 
 - Logout: 
 logout
