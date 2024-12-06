@@ -15,8 +15,9 @@ g++ -pthread -o client client.cpp -lcrypto
 - Client Execution
 ```bash
 ./client IP:PORT tracker_info.txt
-./client 127.0.0.1:6000 tracker_info.txt
 ```
+Eg- ./client 127.0.0.1:6000 tracker_info.txt
+
 
 - In Tracker Compile using
 ```bash  
