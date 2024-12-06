@@ -1,6 +1,3 @@
-# AOS Assignment 3
-# Lakshay Baijal 2024202006
-
 # Peer to Peer Distributed File Sharing System
 
 [Screencast from 2024-10-20 16-06-20.webm](https://github.com/user-attachments/assets/ce7825d4-4715-47f2-8117-da04e6ff9ccf)
